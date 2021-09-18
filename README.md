@@ -1,1 +1,2 @@
 # C-acquaintance-
+Первый день
